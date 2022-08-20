@@ -1,4 +1,6 @@
-# hello
-this is a test about publishing a golang module
+# data
 
-这只是一个用于测试go module 发布方法的仓库
+转自
+"github.com/sausheong/gwp/Chapter_2_Go_ChitChat/chitchat/data" 
+
+#go web编程实战中，这个包get 不了，搬运一下#
